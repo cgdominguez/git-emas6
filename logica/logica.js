@@ -68,7 +68,7 @@ let fruta =["manzana", "banana"]
 let [a,b]= fruta ;
 console.log (a,b);     // nos devuelve los string 
 console.log(fruta);    // nos devuelve el array 
-console.log(a,fruta[1])
+console.log(a,fruta[1])// nos devuelve el string y el array indicado
 
 // destructuracion de un OBJETO
 
